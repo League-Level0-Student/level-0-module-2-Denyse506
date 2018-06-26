@@ -14,6 +14,11 @@ import javax.swing.JOptionPane;
 public class AnimalFarm {
 
 AnimalFarm() {
+	JOptionPane.
+	playMoo();
+	playQuack();
+	playWoof();
+	
 	/*
 	 * 1. Ask the user which animal they want, then play the sound of that
 	 * animal.
